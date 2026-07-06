@@ -60,6 +60,5 @@ public class DAY_2 {
 
         System.out.println("Number of majority subarrays: " + cnt);
 
-        sc.close();
     }
 }
