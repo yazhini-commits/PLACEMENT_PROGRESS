@@ -11,7 +11,7 @@ class DIGIT_ADD{
             n=n/10;
             
         }
-        System.out.println("The Sum of digits: "+sum);        
+        System.out.println("The Sum of digits: "+sum);
 
     }
 }
