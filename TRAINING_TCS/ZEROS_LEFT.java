@@ -32,5 +32,8 @@ public class ZEROS_LEFT{
             System.out.print(arr[i]);
         }
 
+
+        
+
     }
 }
