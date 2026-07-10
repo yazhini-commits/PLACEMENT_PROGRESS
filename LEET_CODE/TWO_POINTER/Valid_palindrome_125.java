@@ -1,6 +1,6 @@
 package LEET_CODE.TWO_POINTER;
 
-public class Valid_palindrome {
+public class Valid_palindrome_125 {
 
     static class Solution {
 

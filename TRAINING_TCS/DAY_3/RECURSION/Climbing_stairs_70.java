@@ -1,6 +1,6 @@
 package TRAINING_TCS.DAY_3.RECURSION;
 
-public class Climbing_stairs {
+public class Climbing_stairs_70 {
 
     static class Solution {
 
