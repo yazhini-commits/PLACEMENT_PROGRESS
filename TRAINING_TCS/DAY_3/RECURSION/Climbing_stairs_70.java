@@ -1,4 +1,4 @@
-package TRAINING_TCS.DAY_3.RECURSION;
+package DAY_3.RECURSION;
 
 public class Climbing_stairs_70 {
 
